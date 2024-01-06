@@ -1,9 +1,14 @@
 // analisis
 // definision del problema: obtener el mayor y menor de 3 edades
-// datos de entrada: numericos
-// informacion de salida: mayor y menor de 3 edades y si son mayores o iguales a 18	
+// datos de entrada: edad1, edad2, edad3 como enteros
+// informacion de salida: "mayor:" edad1 y "menor:" edad1 como enteros	
 // variables: edad1, edad2, edad3, mayor, menor
-// dise�o antes del pseudocodigo
+// diseño
+//dividir el problema en problemas mas pequeños
+//datos de entrada: pedir al usuario ingresar tres edades para determinar cual es el mayor de tres edades y si son mayores o iguales de 18
+//comparacion: segun los datos ingresados comparar cual es mayor cual es menor 
+//salida de datos: escribir "el mayor es:" mayor y "el menor es;" menor
+//antes del pseudocodigo
 Algoritmo MayorMenorEdades
     Definir edad1, edad2, edad3, mayor, menor Como Entero
 	
